@@ -1,2 +1,2 @@
 # PiHoleBlocklist
-Blocklists for Pi-hole.
+A respository of Pi-hole blocklists.
