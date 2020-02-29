@@ -1,0 +1,11 @@
+
+# Nine Entertainment - Omniture
+omni.nine.com.au
+nine.com.au.ssl.sc.omtrdc.net
+somni.nine.com.au
+
+# Seven West Media
+snowplow.swm.digital
+
+# SBS
+sbsaustralia.sc.omtrdc.net
