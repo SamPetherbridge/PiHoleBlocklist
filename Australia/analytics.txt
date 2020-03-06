@@ -9,3 +9,6 @@ snowplow.swm.digital
 
 # SBS
 sbsaustralia.sc.omtrdc.net
+
+# FoxSports
+foxsportsau.sc.omtrdc.net
