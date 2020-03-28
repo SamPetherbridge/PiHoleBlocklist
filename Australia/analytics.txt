@@ -12,3 +12,7 @@ sbsaustralia.sc.omtrdc.net
 
 # FoxSports
 foxsportsau.sc.omtrdc.net
+
+# ABC
+collector.abc-host.net.au
+collector.abc.net.au
